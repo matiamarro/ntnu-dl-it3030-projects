@@ -1,5 +1,5 @@
 # Deep Learning - it3030 NTNU - Projects
-My 3 individual project from the it3030 deep learning course in NTNU, year 2023-24.
+My 3 individual projects from the it3030 deep learning course in NTNU, year 2023-24.
 1) Implementing Backpropagation
 2) Energy production forecast
 3) Deep generative model
@@ -21,6 +21,7 @@ The model I build are:
 - feed forward NN
 - LSTM
 - CNN
+
 ![norwayreg](./img/electricnorwayregions.png)
 
 ### 3 - Deep generative model
@@ -33,4 +34,5 @@ Each one in form of:
 - generator
 - anomaly detector
 trained and tested on the MNIST dataset.
+
 ![mnistdataset](./img/mnist.png)
