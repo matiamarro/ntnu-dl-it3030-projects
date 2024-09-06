@@ -25,7 +25,7 @@ The model I build are:
 ![norwayreg](./img/electricnorwayregions.png)
 
 ### 3 - Deep generative model
-Implementation of 2 different model:
+Implementation of 2 different models:
 - Standard autoencoder
 - Varational autoencoder (VAEs)
 
@@ -33,6 +33,7 @@ Each one in form of:
 - classifier
 - generator
 - anomaly detector
-trained and tested on the MNIST dataset.
+
+Trained and tested on the MNIST dataset.
 
 ![mnistdataset](./img/mnist.png)
